@@ -1,0 +1,7 @@
+.list-style-q::before {
+    content: "Q :";
+}
+
+.list-style-q {
+    list-style: none;
+}
