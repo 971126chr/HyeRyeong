@@ -9,6 +9,14 @@ header {
     margin: 10px 10px 0px 10px;
     height: 108px;
 }
+#award {
+    position: absolute;
+    top: 30px;
+    left: 365px;
+}
+#headerslogan {
+    float: right;
+}
 #tablecontainer {
     display: table;
     border-spacing: 10px;
@@ -36,7 +44,15 @@ aside {
     font-size: 105%;
     padding: 15px;
     vertical-align: top;
+}
+#ticket {
+    position: fixed;
+    top: 350px;
+    left: -90px;
 }    
+#ticket a, img {
+    border: none;
+}
 footer {
     background-color: #675c47;
     color: #efe5d0;
